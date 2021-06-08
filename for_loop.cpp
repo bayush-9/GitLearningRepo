@@ -8,6 +8,6 @@ int main()
 {
     cout<<"into to for loop";
     cout<<"for loops understood";
-    cout<<"phew;"
+    cout<<"phew";
     return 0;
 }
